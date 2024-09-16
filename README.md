@@ -19,7 +19,7 @@ This project involves classifying images using Convolutional Neural Networks (CN
 
 **Diabetes Prediction using Machine Learning**
 Description:
-This project aims to predict the likelihood of diabetes using machine learning algorithms. The model is built on the Pima Indians Diabetes dataset.
+This project aims to predict the likelihood of diabetes using machine learning algorithms & deep learning. The model is built on the Pima Indians Diabetes dataset.
 
 **Features**
 -Data preprocessing and feature engineering
